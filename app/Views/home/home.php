@@ -32,12 +32,43 @@
 
 <!-- Cards -->
 <div class="container">
-    <div class="card text-white bg-primary my-3" style="max-width: 18rem;">
-    <div class="card-header">Header</div>
-    <div class="card-body">
-        <h5 class="card-title">Primary card title</h5>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <div class="row justify-content-center">
+    <div class="col-md-4 col-sm-6">
+        <div class="card my-3" style="max-width: 18rem;">
+        <div class="card-header">Header</div>
+        <div class="card-body">
+            <h5 class="card-title">Primary card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        </div>
+        <div class="card-footer text-muted">
+          <p>E lá vamos nós</p>
+        </div>
+        </div>
     </div>
+    <div class="col-md-4 col-sm-6">
+        <div class="card my-3 " style="max-width: 18rem;">
+        <div class="card-header">Header</div>
+        <div class="card-body">
+            <h5 class="card-title">Primary card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        </div>
+        <div class="card-footer text-muted">
+          <p>E lá vamos nós</p>
+        </div>
+        </div>
     </div>
+    <div class="col-md-4 col-sm-6">
+        <div class="card my-3" style="max-width: 18rem;">
+        <div class="card-header">Header</div>
+        <div class="card-body">
+            <h5 class="card-title">Primary card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        </div>
+        <div class="card-footer text-muted">
+          <p>E lá vamos nós</p>
+        </div>
+        </div>
+    </div>
+  </div>
 </div>
 <!-- End Cards -->
